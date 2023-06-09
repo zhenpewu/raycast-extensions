@@ -11,6 +11,7 @@
 /extensions/ableton-live                             @dch09
 /extensions/abstract-api                             @andreaselia
 /extensions/active-mississaugua                      @Aayush9029
+/extensions/adb                                      @quentin23soleil
 /extensions/adhan-time                               @mzaien
 /extensions/advice-slip                              @pernielsentikaer @andreaselia
 /extensions/ai-gen                                   @josephschmitt
@@ -39,7 +40,7 @@
 /extensions/apple-developer-docs                     @CaliCastle
 /extensions/apple-devices                            @madza91
 /extensions/apple-maps-search                        @djpowers @ratoru
-/extensions/apple-notes                              @tumispro @ron-myers @mathieudutour @StevenRCE0 @SKaplanOfficial
+/extensions/apple-notes                              @tumispro @ron-myers @mathieudutour @StevenRCE0 @SKaplanOfficial @joshknowles
 /extensions/arc                                      @thomaspaulmann @pomdtr @zach-fuller @ankitchouhan1020 @pernielsentikaer @danpalmer
 /extensions/archiver                                 @404J
 /extensions/arxiv                                    @koayon @pernielsentikaer
@@ -105,6 +106,7 @@
 /extensions/bundesliga                               @anhthang
 /extensions/bundlephobia-search                      @dgrzedzielski
 /extensions/cache-control-builder                    @rkusa
+/extensions/cacher                                   @jookyboi
 /extensions/cal-com-share-meeting-links              @eluce2 @peduarte @pernielsentikaer
 /extensions/calendar                                 @fuksman
 /extensions/calendly                                 @eluce2
@@ -525,6 +527,7 @@
 /extensions/lyrics                                   @ajzbc
 /extensions/m3o                                      @andreaselia
 /extensions/macupdater                               @karlsander
+/extensions/mail                                     @yug2005 @ikupenov @pernielsentikaer
 /extensions/mailsy                                   @BalliAsghar
 /extensions/man-pages                                @SKaplanOfficial
 /extensions/mantine                                  @EmilMalanczak
@@ -662,6 +665,7 @@
 /extensions/paste-as-plain-text                      @koinzhang @pantajoe
 /extensions/pastebin                                 @vimtor
 /extensions/pera-explorer                            @akgunberk
+/extensions/performance-hud                          @say4n
 /extensions/pestphp-documentation                    @danyelkeddah
 /extensions/pexels                                   @koinzhang
 /extensions/php-docs                                 @comes @pernielsentikaer
@@ -740,6 +744,7 @@
 /extensions/raycast-wemo                             @IAmNatch
 /extensions/raydocs                                  @teziovsky
 /extensions/raynab                                   @gogocharli
+/extensions/raytaskwarrior                           @AltamimiYasser
 /extensions/react-docs                               @webdiego
 /extensions/react-icons                              @yug2005
 /extensions/readwise                                 @natterstefan
@@ -901,7 +906,7 @@
 /extensions/ticktick                                 @viduycheung @Alireza29675
 /extensions/tim                                      @tmwrnr
 /extensions/time-until-i-do                          @MuhaddiMu
-/extensions/timers                                   @ThatNerdSquared @marcjulianschwarz @GastroGeek @pernielsentikaer @lokot0k
+/extensions/timers                                   @ThatNerdSquared @marcjulianschwarz @GastroGeek @pernielsentikaer @lokot0k @ThatNerdSquared
 /extensions/timeular                                 @kudrykv
 /extensions/timezone-converter                       @joaom182 @pernielsentikaer
 /extensions/tinyfaces-nft                            @peduarte
@@ -951,7 +956,7 @@
 /extensions/upcoming-holidays                        @rodrigouroz
 /extensions/update-clash-subscription                @JakeLaoyu
 /extensions/uplabs                                   @gebeto
-/extensions/urban-dictionary                         @Sheraff
+/extensions/urban-dictionary                         @Sheraff @zhenpewu @pernielsentikaer
 /extensions/url-tools                                @joshauh46
 /extensions/utm-virtual-machines                     @alaidriel
 /extensions/uuid-generator                           @jmaeso @GastroGeek @pernielsentikaer @LunaticMuch
